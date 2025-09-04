@@ -1,0 +1,2 @@
+# Prop to disable the boot animation
+debug.sf.nobootanimation=1

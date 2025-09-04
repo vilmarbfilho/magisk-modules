@@ -1,0 +1,4 @@
+#!/system/bin/sh
+ui_print "*******************************"
+ui_print " Install Module... "
+ui_print "*******************************"

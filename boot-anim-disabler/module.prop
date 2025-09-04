@@ -1,0 +1,6 @@
+id=boot-anim-disabler
+name=Boot Animation Disabler
+version=v1
+versionCode=1
+author=Vilmar
+description=Disable boot animation for a fast initialization
