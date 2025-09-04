@@ -1,0 +1,5 @@
+#!/system/bin/sh
+# Don't modify this script for a simple module.
+ui_print "*******************************"
+ui_print "   Start On Boot - by Vilmar   "
+ui_print "*******************************"

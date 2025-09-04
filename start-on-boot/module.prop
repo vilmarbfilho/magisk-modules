@@ -1,0 +1,6 @@
+id=app-starter
+name=App Autostarter
+version=v1
+versionCode=1
+author=Vilmar
+description=Start an app on boot.
